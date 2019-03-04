@@ -1,2 +1,1 @@
-de
-fgggggggg
+print("Hello world")
